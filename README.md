@@ -1,0 +1,2 @@
+# Simulating Fluid Dynamics by Solving Navier-Stokes
+This notebook simulates fluid dynamics as expressed by the voricity. It utilizes solve.ivp from the SciPy library and the Fast Fourier Transform (FFT) in tandem with finite difference methods to solve the equations through time. Additionally, this notebook creates GIFs that show the progression of four different initial conditions over time. The GIFs are included in this repository. 
